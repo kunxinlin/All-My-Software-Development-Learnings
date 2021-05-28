@@ -1,14 +1,36 @@
-//anything valid for a html file will be valid for an ejs file
+<!-- anything valid for a html file will be valid for an ejs file -->
 
+<%- include("header") -%>
 
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title></title>
-  </head>
-  <body>
-    <!-- <%= %> the ejs marker -->
-    <h1>It's a <%= kindOfDay %></h1>
-  </body>
-</html>
+    <div class="box" id="heading">
+      <!-- <%= %> the ejs marker -->
+      <h1> <%= listTitle %></h1>
+    </div>
+
+    <div class="box">
+      <% for(let i=0; i<newListItems.length; i++) { %>
+        <div class="item">
+          <input type="checkbox">
+          <p><%= newListItems[i] %></p>
+        </div>
+      <% } %>
+
+      <form class="item" action="/" method="post">
+        <input type="text" name="newItem" placeholder="New Item" autocomplete="off">
+        <button type="sumbit" name="list" value=<%= listTitle %>>+</button>
+      </form>
+    </div>
+
+    <!-- <ul>
+      <li>aside</li>
+      <li>asd</li>
+      <li>asdsadsa</li> -->
+
+      <!-- <% %> for scriplets, needed on every line that has JS -->
+
+    <!--  <% for (var i=0; i< newListItems.length; i++) { %>
+        <li><%= newListItems[i] %></li>
+      <% } %>
+    </ul> -->
+
+<%- include("footer") -%>
