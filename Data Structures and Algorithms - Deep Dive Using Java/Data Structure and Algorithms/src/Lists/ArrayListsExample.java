@@ -1,9 +1,11 @@
-package Lists.ArrayList;
+package Lists;
+
+import Lists.Employee;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class Main {
+public class ArrayListsExample {
     public static void main(String[] args) {
 
         List<Employee> employeeList = new ArrayList<>();

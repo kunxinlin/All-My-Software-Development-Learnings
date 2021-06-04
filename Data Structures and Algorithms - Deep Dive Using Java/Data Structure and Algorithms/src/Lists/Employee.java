@@ -1,4 +1,4 @@
-package Lists.ArrayList;
+package Lists;
 
 public class Employee {
     private String firstName;
