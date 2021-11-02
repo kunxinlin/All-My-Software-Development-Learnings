@@ -7,9 +7,12 @@ public class StringMethodsExample {
         String s2 = "dog";
         String s3 = "Dog";
 
+
         s1.charAt(1);
         s1.toLowerCase();
         s1.toUpperCase();
+
+        System.out.println(s1.substring(0,3));
 
         System.out.println("toCharArray:");
         System.out.println(Arrays.toString(s1.toCharArray()));

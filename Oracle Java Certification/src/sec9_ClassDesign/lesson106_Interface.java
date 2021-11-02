@@ -15,7 +15,6 @@ public interface lesson106_Interface {
     public abstract void hello1(); //redundant
     void hello2(); //methods are by default and can only be: public abstract
 
-
     //default method can only be created in a interface
     //must use default keyword and provide a default implementation
     //not assumed to be static final or abstract as it may be used or overridden in the classes that implements it
@@ -29,6 +28,7 @@ public interface lesson106_Interface {
     //compile error if a class extends multiple interface that has same default methods and you dont override it
 
 
+    //since Java 8, interface can have static method and methods with implementations
     //static can only be public, need to have a body
     //if we implement 2 interface with same static method it will compile since we need to access it by interface 2name
     public static void hello3(){  //redundant

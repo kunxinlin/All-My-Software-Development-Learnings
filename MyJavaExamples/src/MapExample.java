@@ -27,6 +27,7 @@ public class MapExample {
         fruitCount.put("Kiwi", 15);
 
         System.out.println(fruitCount);
+        System.out.println(fruitCount.entrySet());
         System.out.println(fruitCount.keySet());
         System.out.println(fruitCount.values());
 
@@ -37,7 +38,11 @@ public class MapExample {
         System.out.println(fruitCount.get("Apple1"));
         System.out.println(fruitCount.getOrDefault("Apple1", 0));
 
+        Map<Integer, char[]> map = new HashMap<>();
+        map.put(1, new char []{'a', 'b', 'c'});
+        System.out.println(map.get(1));
 
+        System.out.println(map.get(1)[0]);
 
     }
 }

@@ -44,7 +44,7 @@ public class ListExample {
         List<String> clone1 = List.copyOf(fruits); //
 
         //sort takes in a comparator, but if you pass in null it'll sort by the default comparator for which in this case String comparator.
-        //fruits.sort(null); //can also do fruits.sort(String::compareTo)'
+        //fruits.sort(null); //can also do fruits.sort(String::compareTo)
 
         //can use the Collections.sort too
         Collections.sort(fruits);
@@ -58,10 +58,13 @@ public class ListExample {
         System.out.println(fruits.subList(0,4)); //from index is inclusive, to index is exclusive
         fruits.remove(4);  //remove by index
         fruits.remove("Plum"); //remove by item
+        //if wanted to remove an specific integer from a list of Integers would need to cast it to an object by
+        //new Integer(1), Integer(1), Integer.valueOf(1).
 
         System.out.println(fruits.get(1));
         System.out.println(fruits.indexOf("Apple1")); //returns -1 if not found
         //lastIndexOf()
+        //contains() ->return boolean
 
         //same as Iterator, except it's bidrectional and has more methods
         ListIterator listIter = fruits.listIterator();
@@ -70,5 +73,7 @@ public class ListExample {
 
         fruits.replaceAll(x -> "Apple"); //takes a Unary Operator
         System.out.println(fruits);
+
+
     }
 }
