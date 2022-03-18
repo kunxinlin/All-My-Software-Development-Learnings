@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6260fd73-2bb7-404b-b2ed-cc160090d3d0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../MyJavaExamples/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyJavaExamples/.idea/ClojureProjectResolveSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyJavaExamples/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyJavaExamples/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyJavaExamples/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyJavaExamples/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyJavaExamples/MyJavaExamples.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyJavaExamples/out/production/MyJavaExamples/ComparatorAndComparableExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyJavaExamples/out/production/MyJavaExamples/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyJavaExamples/out/production/MyJavaExamples/EnumAndSwitchExample$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyJavaExamples/out/production/MyJavaExamples/EnumAndSwitchExample$Day.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyJavaExamples/out/production/MyJavaExamples/EnumAndSwitchExample$Level.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyJavaExamples/out/production/MyJavaExamples/EnumAndSwitchExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyJavaExamples/out/production/MyJavaExamples/JavaMathExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyJavaExamples/out/production/MyJavaExamples/LinkedListExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyJavaExamples/out/production/MyJavaExamples/ListExample$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyJavaExamples/out/production/MyJavaExamples/ListExample$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyJavaExamples/out/production/MyJavaExamples/ListExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyJavaExamples/out/production/MyJavaExamples/MapExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyJavaExamples/out/production/MyJavaExamples/SetExample$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyJavaExamples/out/production/MyJavaExamples/SetExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyJavaExamples/out/production/MyJavaExamples/StringBuilderExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyJavaExamples/out/production/MyJavaExamples/StringMethodsExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyJavaExamples/out/production/MyJavaExamples/SwitchExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyJavaExamples/src/ComparatorAndComparableExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyJavaExamples/src/EnumAndSwitchExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyJavaExamples/src/JavaMathExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyJavaExamples/src/LinkedListExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyJavaExamples/src/ListExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyJavaExamples/src/MapExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyJavaExamples/src/SetExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyJavaExamples/src/StringBuilderExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyJavaExamples/src/StringMethodsExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyJavaExamples/src/SwitchExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring and Hibernate for Beginners/spring-mvc-maven/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring and Hibernate for Beginners/spring-mvc-maven/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring and Hibernate for Beginners/spring-mvc-maven/src/main/java/org/example/demo/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring and Hibernate for Beginners/spring-mvc-maven/src/main/java/org/example/demo/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring and Hibernate for Beginners/spring-mvc-maven/src/main/webapp/WEB-INF/view/customer-confirmation.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring and Hibernate for Beginners/spring-mvc-maven/src/main/webapp/WEB-INF/view/customer-confirmation.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring and Hibernate for Beginners/spring-mvc-maven/src/main/webapp/WEB-INF/view/customer-form.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring and Hibernate for Beginners/spring-mvc-maven/src/main/webapp/WEB-INF/view/customer-form.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring and Hibernate for Beginners/spring-mvc-maven/target/classes/org/example/demo/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring and Hibernate for Beginners/spring-mvc-maven/target/classes/org/example/demo/Customer.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\M3_Repo" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../../../Program Files/setups/maven3Blr" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="20h2SwhTmjJTB02QY1BzxpC0QzM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="StartApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StartApplication" />
+      <module name="log4j2-demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StartApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6260fd73-2bb7-404b-b2ed-cc160090d3d0" name="Changes" comment="" />
+      <created>1636482501797</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636482501797</updated>
+    </task>
+    <servers />
+  </component>
+</project>
