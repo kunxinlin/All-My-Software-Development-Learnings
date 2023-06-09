@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc348def-04f1-4518-9411-270c7be1e264" name="Changes" comment="">
+    <list default="true" id="c334715b-00b6-4123-8ebd-28d1cc6ea0b1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../../MyJavaExamples/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../MyJavaExamples/.idea/ClojureProjectResolveSettings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../MyJavaExamples/.idea/misc.xml" beforeDir="false" />
@@ -36,38 +36,79 @@
       <change beforePath="$PROJECT_DIR$/../../MyJavaExamples/src/StringBuilderExample.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../MyJavaExamples/src/StringMethodsExample.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../MyJavaExamples/src/SwitchExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Spring and Hibernate for Beginners/spring-mvc-maven/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring and Hibernate for Beginners/spring-mvc-maven/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Spring and Hibernate for Beginners/spring-mvc-maven/src/main/java/org/example/demo/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring and Hibernate for Beginners/spring-mvc-maven/src/main/java/org/example/demo/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Spring and Hibernate for Beginners/spring-mvc-maven/src/main/webapp/WEB-INF/view/customer-confirmation.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring and Hibernate for Beginners/spring-mvc-maven/src/main/webapp/WEB-INF/view/customer-confirmation.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Spring and Hibernate for Beginners/spring-mvc-maven/src/main/webapp/WEB-INF/view/customer-form.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring and Hibernate for Beginners/spring-mvc-maven/src/main/webapp/WEB-INF/view/customer-form.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Spring and Hibernate for Beginners/spring-mvc-maven/target/classes/org/example/demo/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring and Hibernate for Beginners/spring-mvc-maven/target/classes/org/example/demo/Customer.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="26NuWEMSayvwwoS6sf7NENJHX1H" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="26Z3x5DNe2kEvb952ohObd9zQvD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.TheadingExample">
+    <configuration name="ComparatorAndComparableExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ComparatorAndComparableExample" />
+      <module name="MyJavaExamples" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TheadingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TheadingExample" />
+      <module name="MyJavaExamples" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TheadingExample" />
+        <item itemvalue="Application.ComparatorAndComparableExample" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fc348def-04f1-4518-9411-270c7be1e264" name="Changes" comment="" />
-      <created>1647276395188</created>
+      <changelist id="c334715b-00b6-4123-8ebd-28d1cc6ea0b1" name="Changes" comment="" />
+      <created>1647617523666</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1647276395188</updated>
+      <updated>1647617523666</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
